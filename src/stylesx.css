@@ -73,11 +73,14 @@ ul {
     font-family: Merriweather, sans-serif;
     width: 600px;
     background-color: white;
-    box-shadow: 5px 5px 10px 10px whitesmoke;
+    /*box-shadow: 5px 5px 10px 10px white;*/
     border-radius: 10px;
     margin: 50px;
     padding: 20px;
 
+}
+.country-item2 {
+    box-shadow: 5px 5px 10px 10px whitesmoke;
 }
 
 #country-item img {
